@@ -92,28 +92,28 @@ Below endpoints require JWT-based authentication. Obtain a JWT token by sending 
 
 #### Images
 - Request body for Admin Signup
-![request body for adminsignup](https://github.com/YashKumar14/Contact-Management-API/blob/master/request%20body%20for%20adminsignup.png?raw=true)
+![request body for adminsignup](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/RequestBodyForAdminSignup.png?raw=true)
 
 - Response body for Admin Signup
-![Response body for admin signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20signup.png?raw=true)
+![Response body for admin signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/ResponseBodyForAdminSignup.png?raw=true)
 
 - Request body for User Signup
-![Request body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20user%20signup.png?raw=true)
+![Request body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/RequestBodyForUserSignup.png?raw=true)
 
 - Response body for User Signup
-![response body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/response%20body%20for%20user%20signup.png?raw=true)
+![response body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/ResponseBodyForUserSignup.png?raw=true)
 
 - Request body for Admin Login
-![Request body for Admin Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20admin%20login.png?raw=true)
+![Request body for Admin Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/RequestBodyForAdminLogin.png?raw=true)
 
 - Response body for Admin Login
-![Response body for admin login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20login.png?raw=true)
+![Response body for admin login](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/ResponseBodyForAdminLogin.png?raw=true)
 
 - Request body for User Login
-![Request body for User Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/request%20body%20for%20login%20user.png?raw=true)
+![Request body for User Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/RequestBodyForLoginUser.png?raw=true)
 
 - Response body for User Login
-![response body for user login](https://github.com/YashKumar14/Contact-Management-API/blob/master/response%20body%20for%20user%20login.png?raw=true)
+![response body for user login](https://github.com/YashKumar14/Contact-Management-API/blob/master/screenshots/ResponseBodyForUserLogin.png?raw=true)
 
 ## Design Choices
 ### Spring Boot for Rapid Development:
