@@ -91,17 +91,29 @@ Below endpoints require JWT-based authentication. Obtain a JWT token by sending 
 |`/api/duplicateContacts/mergeDuplicates`|POST|Merge Contacts based on email or phoneNo|
 
 #### Images
--  Request body for Admin Login
-  ![Request body for Admin Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20admin%20login.png?raw=true)
+- Request body for Admin Signup
+![request body for adminsignup](https://github.com/YashKumar14/Contact-Management-API/blob/master/request%20body%20for%20adminsignup.png?raw=true)
 
-- Response body for admin signup
-  ![Response body for admin signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20signup.png?raw=true)
+- Response body for Admin Signup
+![Response body for admin signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20signup.png?raw=true)
 
--  Request body for user signup
-  ![Request body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20user%20signup.png?raw=true)
+- Request body for User Signup
+![Request body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20user%20signup.png?raw=true)
 
--  Response body for admin login
- ![Response body for admin login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20login.png?raw=true)
+- Response body for User Signup
+![response body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/response%20body%20for%20user%20signup.png?raw=true)
+
+- Request body for Admin Login
+![Request body for Admin Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20admin%20login.png?raw=true)
+
+- Response body for Admin Login
+![Response body for admin login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20login.png?raw=true)
+
+- Request body for User Login
+![Request body for User Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/request%20body%20for%20login%20user.png?raw=true)
+
+- Response body for User Login
+![response body for user login](https://github.com/YashKumar14/Contact-Management-API/blob/master/response%20body%20for%20user%20login.png?raw=true)
 
 ## Design Choices
 ### Spring Boot for Rapid Development:
