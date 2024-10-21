@@ -90,6 +90,18 @@ Below endpoints require JWT-based authentication. Obtain a JWT token by sending 
 |`/api/duplicateContacts/delete/{id}`|DELETE|Delete Contact By Id|
 |`/api/duplicateContacts/mergeDuplicates`|POST|Merge Contacts based on email or phoneNo|
 
+#### Images
+-  Request body for Admin Login
+  ![Request body for Admin Login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20admin%20login.png?raw=true)
+
+- Response body for admin signup
+  ![Response body for admin signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20signup.png?raw=true)
+
+-  Request body for user signup
+  ![Request body for user signup](https://github.com/YashKumar14/Contact-Management-API/blob/master/Request%20body%20for%20user%20signup.png?raw=true)
+
+-  Response body for admin login
+ ![Response body for admin login](https://github.com/YashKumar14/Contact-Management-API/blob/master/Response%20body%20for%20admin%20login.png?raw=true)
 
 ## Design Choices
 ### Spring Boot for Rapid Development:
